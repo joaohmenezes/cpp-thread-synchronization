@@ -1,0 +1,19 @@
+ERRO: g++ nao encontrado
+
+=== SOLUCAO 1: INSTALAR MINGW (RECOMENDADO) ===
+
+1. Baixe o MinGW-w64:
+   https://sourceforge.net/projects/mingw-w64/files/
+
+2.  ou baixe o MSYS2:
+   https://www.msys2.org/
+   
+   Depois de instalar, abra o terminal MSYS2 e digite:
+   pacman -S mingw-w64-x86_64-gcc
+
+=== SOLUCAO 2: USAR VISUAL STUDIO ===
+
+Se voce tem Visual Studio instalado, use o arquivo:
+compilar_vs.bat
+
+
