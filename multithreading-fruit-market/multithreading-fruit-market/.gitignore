@@ -1,0 +1,21 @@
+# Arquivos compilados e objetos
+*.exe
+*.obj
+*.o
+*.out
+*.app
+
+# Arquivos de cache e pre-compilação
+*.ipch
+*.pch
+
+# Pastas e arquivos do Visual Studio / IDEs
+.vs/
+*.sqlite
+*.suo
+*.user
+*.db
+*.cbp
+
+# Arquivos temporários do Windows
+Thumbs.db
