@@ -21,5 +21,5 @@ The system simulates concurrent tasks performed by different entities, applying 
 * **Dynamic Configuration:** The system allows real-time modifications to the execution times (production, transportation, and purchase times) to simulate and analyze different bottleneck scenarios during runtime.
 * **Custom Capacities:** Takes the maximum number of clients and the storage capacities of both the barn and the market as initial inputs.
 
-## 🛠️ Technologies Used
+## Technologies Used
 * **C++11 or higher** (Required for standard thread library)
